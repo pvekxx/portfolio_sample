@@ -51,7 +51,7 @@ const Profile = () => {
                     안녕하세요~~~ <span className="text-[16px] text-slate-400 font-normal">web7722</span>
                 </Hero>
                 <p className="text-slate-700 pt-[5px] md:text-[24px] md:pt-[10px] text-[16px]">
-                    아주 작은 개발자가 될거야
+                    아주 작은 어쩌구저쩌꾸
                 </p>
                 <p className="flex flex-col text-[16px] items-left pt-[7px] md:pt-[5px] md:text-[14px]">
                     <a href="mailto:web7722@gmail.com" className="flex items-center gap-[5px] text-slate-600">
