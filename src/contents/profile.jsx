@@ -48,7 +48,7 @@ const Profile = () => {
             </div>
             <div className="w-[100%] box-border md:w-[70%] md:p-[10px] ">
                 <Hero>
-                    안녕하세요 <span className="text-[16px] text-slate-400 font-normal">web7722</span>
+                    안녕하세요~~~ <span className="text-[16px] text-slate-400 font-normal">web7722</span>
                 </Hero>
                 <p className="text-slate-700 pt-[5px] md:text-[24px] md:pt-[10px] text-[16px]">
                     아주 작은 개발자가 될거야
